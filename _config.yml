@@ -1,11 +1,13 @@
 # Site settings
-title:  An Blog
-SEOTitle:  安之非的博客 | An Blog
-header-img:  img/post-bg-desk.jpg
-email:  an_zhifei@foxmail.com
-description:  "Fear is a choice."
-keyword:  "An, ZhiFei An Blog, 安之非的博客,Bioinformatics "
-url:  "https://raphael886an.github.io/"          # your host, for absolute URL
+title: An Blog    				  	#你博客的标题
+SEOTitle: 安之非的博客 | An Blog    	 #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-rwd.jpg  	#显示在首页的背景图片
+email: 	an_zhifei@foxmail.com
+description: "Fear is a choice"  			 #网站介绍
+keyword: "An, An Blog, 安之非的博客, Bioinformatics, azf" #关键词
+url: "https://raphael886an.github.io/"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
+
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo:  "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
