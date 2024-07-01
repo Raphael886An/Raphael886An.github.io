@@ -4,7 +4,7 @@ title: APA analysis
 subtitle: Dpars for alternative splicing
 date: 2024-07-01 
 author: BY
-header-img: img/post-bg-2015.jpg
+header-img: 
 catalog: true
 tags:	
     - RNA
