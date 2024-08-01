@@ -6,7 +6,7 @@ github：[ZhengXia/dapars: DaPars(Dynamic analysis of Alternative PolyAdenylatio
 There is also DAPARS2 now, here we only take DaPars 1.0 as an example
 workflow：
 
-![work_flow](..//img/APA_workflow.png)
+![work_flow](/img/APA_workflow.png)
 
 # installation:
 
@@ -24,9 +24,9 @@ Gene 3'UTR regions can be extracted from reference gene annotation, any referenc
 
 for example:
 
-![Untitled](..//img/APA1.png)
+![Untitled](/img/APA1.png)
 
-![Untitled](..//img/APA2.png)
+![Untitled](/img/APA2.png)
 
 ## 1.2 BedGraph files store the reads alignment result. it can be generated from BAM file from RNA-seq alignment tool such as TopHat. One way is to use [BedTools](https://github.com/arq5x/bedtools2) with following command:
 
@@ -79,7 +79,7 @@ python DaPars_main.py config.txt
 
 # output format:
 
-![Untitled](..//img/APAoutput.png)
+![Untitled](/img/APAoutput.png)
 
 ps: Group1 of config is the group A of output
 
@@ -124,5 +124,5 @@ dev.off()
 ```
 here is my plot
 
-![Untitled](..//img/APApng-1.png)
-![Untitled](..//img/APApng-2.png)
+![Untitled](/img/APApng-1.png)
+![Untitled](/img/APApng-2.png)
