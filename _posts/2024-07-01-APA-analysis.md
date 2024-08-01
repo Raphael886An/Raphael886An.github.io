@@ -24,9 +24,9 @@ Gene 3'UTR regions can be extracted from reference gene annotation, any referenc
 
 for example:
 
-![Untitled](/APA%20analysis/1.png)
+![Untitled](../img/APA1.png)
 
-![Untitled](/APA%20analysis/2.png)
+![Untitled](../img/APA2.png)
 
 ## 1.2 BedGraph files store the reads alignment result. it can be generated from BAM file from RNA-seq alignment tool such as TopHat. One way is to use [BedTools](https://github.com/arq5x/bedtools2) with following command:
 
@@ -79,7 +79,7 @@ python DaPars_main.py config.txt
 
 # output format:
 
-![Untitled](/APA%20analysis/output.png)
+![Untitled](../img/APAoutput.png)
 
 ps: Group1 of config is the group A of output
 
@@ -123,3 +123,6 @@ abline(v=0.1*c(-1,1),lty=2,lwd=2)
 dev.off()
 ```
 here is my plot
+
+![Untitled](../img/APApng-1.png)
+![Untitled](../img/APApng-2.png)
