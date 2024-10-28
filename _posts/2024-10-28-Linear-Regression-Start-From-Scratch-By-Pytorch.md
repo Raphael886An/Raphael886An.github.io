@@ -33,8 +33,7 @@ d2l.plt.scatter(features[:, (1)].detach().numpy(), labels.detach().numpy(), 1);
 ```
 
 
-    
-![svg](output_2_0.svg)
+![png1](/img/2024-10-28-1.png)
     
 
 
