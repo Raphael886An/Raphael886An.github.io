@@ -33,7 +33,7 @@ d2l.plt.scatter(features[:, (1)].detach().numpy(), labels.detach().numpy(), 1);
 ```
 
 
-![png1](../img/2024-10-28-1.png)
+![png1](../img/2024-10-28-1.jpg)
     
 
 
