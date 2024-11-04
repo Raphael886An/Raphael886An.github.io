@@ -51,6 +51,9 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
+  math_engine: mathjax  # 添加这一行以支持数学公式渲染
+  syntax_highlighter_opts:
+    block: null
 
 
 
