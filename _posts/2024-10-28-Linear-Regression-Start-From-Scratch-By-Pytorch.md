@@ -1,3 +1,12 @@
+---
+tags:
+    - codes
+    - meachine learning
+
+---
+
+
+
 ```python
 %matplotlib inline
 import random
